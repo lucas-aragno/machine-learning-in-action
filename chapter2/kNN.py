@@ -56,4 +56,3 @@ def classify0(inX, dataSet, labels, k):
 
 # Finally we can call this thing by doing kNN.clasify0([0,0], group, labels, 3) where group and labels
 # Are the outputs of createDataSet
-
